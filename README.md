@@ -15,7 +15,7 @@ Web application penetration testing · Bug bounty research · Vulnerability anal
 
 ### About
 
-Cybersecurity analyst focused on **web application penetration testing, exploit development, and vulnerability research**, with hands-on bug bounty experience across public and private programs. I build and maintain a custom reconnaissance framework used in day-to-day testing, and I bring a combined offensive/defensive lens to security work after completing SOC analyst training in alert triage, malware analysis, and SIEM operations.
+Cybersecurity analyst focused on **web application penetration testing, and vulnerability research**, with hands-on bug bounty experience across public and private programs. I build and maintain a custom reconnaissance framework used in day-to-day testing, and I bring a combined offensive/defensive lens to security work after completing SOC analyst training in alert triage, malware analysis, and SIEM operations.
 
 ---
 
